@@ -1,0 +1,9 @@
+---
+Language:       Cpp
+BasedOnStyle:   Google
+ColumnLimit:    79
+CommentPragmas:  '^\\.+'
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+AlwaysBreakTemplateDeclarations: Yes
